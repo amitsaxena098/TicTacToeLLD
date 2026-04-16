@@ -1,5 +1,5 @@
 > ## Documentation Index
-> Fetch the complete documentation index at: https://mintlify.com/amitsaxena098/TicTacToeLLD
+> Fetch the complete documentation index at: [https://mintlify.com/amitsaxena098/TicTacToeLLD](https://mintlify.wiki/amitsaxena098/TicTacToeLLD)
 
 # TicTacToe LLD: Java OOP and Low-Level Design Study
 
